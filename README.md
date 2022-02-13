@@ -20,8 +20,8 @@ Give the argument "python prgm.py EX12.txt" on the command line.
 ## PROGRAM:
 ```
 #Program for getting the word count from the contents of a file using command line arguments.
-#Developed by: Pradeesh S
-#Register number: 212221240038
+#Developed by: jeswanth
+#Register number: 21001768
 import sys
 fp=open(sys.argv[1])
 count=0
